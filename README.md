@@ -124,11 +124,6 @@ If the password is incorrect:
 
 ---
 
-# 🖥️ Circuit Design
-
-## Block Diagram
-*(Add your block diagram image here)*
-
 ## Component Connections
 
 - Keypad → Port 1 (Pins 0–6)
