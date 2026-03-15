@@ -35,18 +35,6 @@ This project was designed and simulated using **Proteus 8 Professional** for cir
 
 ---
 
-# 📁 Project Structure
-
-```
-Password-Based-Door-Lock/
-│
-├── code/              # 8051 microcontroller program (Keil)
-├── circuit/           # Proteus circuit design file
-├── images/            # Block diagram and circuit screenshots
-└── README.md          # Project documentation
-```
-
----
 
 # 🧩 Components Description
 
